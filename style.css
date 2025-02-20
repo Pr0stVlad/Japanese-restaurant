@@ -307,7 +307,7 @@ h2{
     font-family: 'century gothic';
     font-size: 23px;
     display: flex;
-    text-align: right;
+    text-align: left;
     justify-content: flex-end;
     margin-top: 100px;
     margin-right: 150px;
@@ -317,7 +317,7 @@ h2{
     font-family: 'century gothic';
     font-size: 23px;
     display: flex;
-    text-align: left;
+    text-align: right;
     justify-content: flex-start;
     margin-top: 100px;
     margin-left: 150px;
